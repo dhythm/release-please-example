@@ -6,5 +6,19 @@ This repository is to survey [relase-please](https://github.com/googleapis/relea
 
 You need to open `Settings` > `Actions` > `General` and check `Allow GitHub Actions to create and approve pull requests` in Workflow permissions if you get error as `release-please failed: GitHub Actions is not permitted to create or approve pull requests.`
 
+### How to use
 
 A release PR will be created when commit(s) that includes Conventional Commit messages is merged in target branch of GitHub Actions.
+
+So, Linear git commit history (via squash-merge) is highly recommended by the maintainers.
+
+#### Restrict only squash-merge
+
+Go to `Settings` > `General` > `Pull Request`, then uncheck `Allow merge commits` and `Allow rebase merging` and change `Default to pull request title` for `Allow squash merging`.
+
+#### Restrict linear git commit history
+
+Go to `Settings` > `Branches`, then add a branch protection rule.
+Branch name pattern is `main` and check `Require linear history`.
+
+You can protect from miss-pushing to a branch if you check `Require a pull request before merging`.
