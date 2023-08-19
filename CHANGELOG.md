@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/dhythm/release-please-example/compare/v1.0.0...v1.0.1) (2023-08-19)
+
+
+### Bug Fixes
+
+* update README, to check minor release ([2458974](https://github.com/dhythm/release-please-example/commit/2458974a9cd785d07678686bfe7fc64924c1740c))
+
 ## 1.0.0 (2023-08-19)
 
 
