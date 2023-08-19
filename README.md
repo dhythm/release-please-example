@@ -25,3 +25,10 @@ Go to `Settings` > `Branches`, then add a branch protection rule.
 Branch name pattern is `main` and check `Require linear history`.
 
 You can protect from miss-pushing to a branch if you check `Require a pull request before merging`.
+
+#### Follow the target branch's update
+
+release PR will be updated when a new commit is merged.
+
+[image](./assets/img/Screenshot_2023-08-19_at_19.55.53.png)
+
