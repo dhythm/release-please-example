@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/dhythm/release-please-example/compare/v1.2.0...v2.0.0) (2023-08-19)
+
+
+### ⚠ BREAKING CHANGES
+
+* update README (An example of BREAKING CHANGE) ([#10](https://github.com/dhythm/release-please-example/issues/10))
+
+### Features
+
+* update README (An example of BREAKING CHANGE) ([#10](https://github.com/dhythm/release-please-example/issues/10)) ([89e6ada](https://github.com/dhythm/release-please-example/commit/89e6ada1ad3bebddc358ff524348148a14fa676a))
+
 ## [1.2.0](https://github.com/dhythm/release-please-example/compare/v1.1.0...v1.2.0) (2023-08-19)
 
 
