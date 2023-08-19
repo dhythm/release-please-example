@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.2.0](https://github.com/dhythm/release-please-example/compare/v1.1.0...v1.2.0) (2023-08-19)
+
+
+### Features
+
+* update README ([#5](https://github.com/dhythm/release-please-example/issues/5)) ([dc257e7](https://github.com/dhythm/release-please-example/commit/dc257e7758ae36b762ba97e9a6f42bee4e3ba1c0))
+* update README ([#7](https://github.com/dhythm/release-please-example/issues/7)) ([d265c56](https://github.com/dhythm/release-please-example/commit/d265c56829b24bb3d0c51aa4986c69172012ee65))
+* update README for release-please behaviour ([#8](https://github.com/dhythm/release-please-example/issues/8)) ([7420f39](https://github.com/dhythm/release-please-example/commit/7420f395b89b20d095ba25f09a47a48186e7b54c))
+
+
+### Bug Fixes
+
+* update README ([#9](https://github.com/dhythm/release-please-example/issues/9)) ([ead9e7a](https://github.com/dhythm/release-please-example/commit/ead9e7a1d6729a8834699b4b51e10bb689e21c5a))
+
 ## [1.1.0](https://github.com/dhythm/release-please-example/compare/v1.0.1...v1.1.0) (2023-08-19)
 
 
