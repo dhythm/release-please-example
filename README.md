@@ -16,6 +16,9 @@ So, Linear git commit history (via squash-merge) is highly recommended by the ma
 
 Go to `Settings` > `General` > `Pull Request`, then uncheck `Allow merge commits` and `Allow rebase merging` and change `Default to pull request title` for `Allow squash merging`.
 
+[GitHub Apps](https://github.com/marketplace/semantic-prs) and [GitHub Actions](https://github.com/amannn/action-semantic-pull-request) would help you to make PR title semantic.
+
+
 #### Restrict linear git commit history
 
 Go to `Settings` > `Branches`, then add a branch protection rule.
