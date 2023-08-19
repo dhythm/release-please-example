@@ -34,3 +34,9 @@ Following pictures are example of the above feature.
 [image](./assets/img/Screenshot_2023-08-19_at_19.55.53.png)
 
 [image](./assets/img/Screenshot_2023-08-19_at_20.03.56.png)
+
+Bug-fix is also included in the minor version up.
+
+[image](./assets/img/Screenshot_2023-08-19_at_20.11.36.png)
+
+
