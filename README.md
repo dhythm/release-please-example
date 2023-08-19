@@ -28,7 +28,9 @@ You can protect from miss-pushing to a branch if you check `Require a pull reque
 
 #### Follow the target branch's update
 
-release PR will be updated when a new commit is merged.
+The release PR will be updated when a new commit is merged.
+Following pictures are example of the above feature.
 
 [image](./assets/img/Screenshot_2023-08-19_at_19.55.53.png)
 
+[image](./assets/img/Screenshot_2023-08-19_at_20.03.56.png)
