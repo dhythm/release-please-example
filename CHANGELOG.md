@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/dhythm/release-please-example/compare/v1.0.1...v1.1.0) (2023-08-19)
+
+
+### Features
+
+* add GitHub Actions to valid semantic PR ([#3](https://github.com/dhythm/release-please-example/issues/3)) ([4ce7b9f](https://github.com/dhythm/release-please-example/commit/4ce7b9f049db4a103a284046560ead720329c075))
+
 ## [1.0.1](https://github.com/dhythm/release-please-example/compare/v1.0.0...v1.0.1) (2023-08-19)
 
 
