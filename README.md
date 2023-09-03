@@ -47,6 +47,13 @@ In GitHub, the following operations didn't work.
 - Including `Release-As: x.x.x` in PR body via squash merging
 - Including `Release-As: x.x.x` in PR title via squash merging
 
+Forced version changing works with `merging commit`.
+
+![image](./assets/img/Screenshot_2023-09-03_at_19.06.37.png)
+
+![image](./assets/img/Screenshot_2023-09-03_at_19.08.06.png)
+
+
 #### Pre-release feature
 
 TBC
