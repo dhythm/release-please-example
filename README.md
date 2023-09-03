@@ -42,6 +42,10 @@ Bug-fix is also included in the minor version up.
 #### Change the version number
 
 a commit to the main branch has `Release-As: x.x.x` (case insensitive) in the commit body.
+In GitHub, the following operations didn't work.
+
+- Including `Release-As: x.x.x` in PR body via squash merging
+- Including `Release-As: x.x.x` in PR title via squash merging
 
 #### Pre-release feature
 
