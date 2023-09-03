@@ -39,6 +39,14 @@ Bug-fix is also included in the minor version up.
 
 ![image](./assets/img/Screenshot_2023-08-19_at_20.11.36.png)
 
+#### Change the version number
+
+TBC
+
+#### Pre-release feature
+
+TBC
+
 ## Reference
 
 - https://www.memory-lovers.blog/entry/2022/11/25/165938
