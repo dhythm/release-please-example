@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.2.0](https://github.com/dhythm/release-please-example/compare/v2.0.1...v2.2.0) (2023-09-03)
+
+
+### Miscellaneous Chores
+
+* release 2.2.0 ([034c930](https://github.com/dhythm/release-please-example/commit/034c930603d99659cd1ea5dadc7eadd9d3ed3a70))
+
 ## [2.0.1](https://github.com/dhythm/release-please-example/compare/v2.0.0...v2.0.1) (2023-08-20)
 
 
