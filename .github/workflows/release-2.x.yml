@@ -12,3 +12,4 @@ jobs:
           release-type: node
           package-name: release-please-action
           default-branch: 2.x
+
