@@ -47,6 +47,10 @@ TBC
 
 TBC
 
+#### Create tag not only main branch
+
+TBC
+
 ## Reference
 
 - https://www.memory-lovers.blog/entry/2022/11/25/165938
