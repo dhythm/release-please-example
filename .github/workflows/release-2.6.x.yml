@@ -11,4 +11,4 @@ jobs:
         with:
           release-type: node
           package-name: release-please-action
-          default-branch: v2.6.x
+            # default-branch: v2.6.x
