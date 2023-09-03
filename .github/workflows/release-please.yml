@@ -19,5 +19,5 @@ jobs:
         with:
           release-type: node
           prerelease: true
-          release-as: 2.5.0
+          release-as: 2.6.x
           package-name: release-please-action
