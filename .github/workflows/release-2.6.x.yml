@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - v2.8.x
+      - v2.6.x
 name: release-please
 jobs:
   release-please:
@@ -11,5 +11,4 @@ jobs:
         with:
           release-type: node
           package-name: release-please-action
-          release-as: 2.8.0
-          default-branch: v2.8.x
+          default-branch: v2.6.x
