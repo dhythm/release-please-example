@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.0](https://github.com/dhythm/release-please-example/compare/v2.2.0...v2.3.0) (2023-09-03)
+
+
+### Features
+
+* add images and update github actions ([#20](https://github.com/dhythm/release-please-example/issues/20)) ([f718602](https://github.com/dhythm/release-please-example/commit/f718602ced483b9ddb9189aae2760a5e87e1c910))
+
 ## [2.2.0](https://github.com/dhythm/release-please-example/compare/v2.0.1...v2.2.0) (2023-09-03)
 
 
