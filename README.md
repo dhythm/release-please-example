@@ -41,7 +41,7 @@ Bug-fix is also included in the minor version up.
 
 #### Change the version number
 
-TBC
+a commit to the main branch has `Release-As: x.x.x` (case insensitive) in the commit body.
 
 #### Pre-release feature
 
