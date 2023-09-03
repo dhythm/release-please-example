@@ -53,6 +53,12 @@ Forced version changing works with `merging commit`.
 
 ![image](./assets/img/Screenshot_2023-09-03_at_19.08.06.png)
 
+Another option is to update GitHub Actions config with `release-as: x.x.x`. See [more](https://github.com/dhythm/release-please-example/pull/24/files).
+
+![image](./assets/img/Screenshot_2023-09-03_at_19.53.49.png)
+
+![image](./assets/img/Screenshot_2023-09-03_at_19.54.11.png)
+
 
 #### Pre-release feature
 
