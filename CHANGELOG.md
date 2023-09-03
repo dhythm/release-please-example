@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.5.0](https://github.com/dhythm/release-please-example/compare/v2.3.0...v2.5.0) (2023-09-03)
+
+
+### Features
+
+* manually set version ([#24](https://github.com/dhythm/release-please-example/issues/24)) ([f1c7192](https://github.com/dhythm/release-please-example/commit/f1c7192601ce50e2b9e5d5ae0f451a4d2442f15e))
+
 ## [2.3.0](https://github.com/dhythm/release-please-example/compare/v2.2.0...v2.3.0) (2023-09-03)
 
 
