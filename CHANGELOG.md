@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.0.1](https://github.com/dhythm/release-please-example/compare/v2.0.0...v2.0.1) (2023-08-20)
+
+
+### Bug Fixes
+
+* add references section ([#14](https://github.com/dhythm/release-please-example/issues/14)) ([aee583a](https://github.com/dhythm/release-please-example/commit/aee583a0bab7a3db9ab38a1a5f931aaf53f9ada2))
+* display image ([#12](https://github.com/dhythm/release-please-example/issues/12)) ([3219c59](https://github.com/dhythm/release-please-example/commit/3219c590ca42f54c42154689e264fdec724e45f0))
+
 ## [2.0.0](https://github.com/dhythm/release-please-example/compare/v1.2.0...v2.0.0) (2023-08-19)
 
 
