@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.6.2](https://github.com/dhythm/release-please-example/compare/v2.6.1...v2.6.2) (2023-09-17)
+
+
+### Bug Fixes
+
+* add config again to github action's yaml ([#42](https://github.com/dhythm/release-please-example/issues/42)) ([24da21c](https://github.com/dhythm/release-please-example/commit/24da21c14d090f096703bece36557a40b911168d))
+* delete unnecessary file ([#40](https://github.com/dhythm/release-please-example/issues/40)) ([9ba8f36](https://github.com/dhythm/release-please-example/commit/9ba8f3626f696a71049b9bd4a142216f083066b0))
+
 ## [2.6.1](https://github.com/dhythm/release-please-example/compare/v2.6.0...v2.6.1) (2023-09-17)
 
 
