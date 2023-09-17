@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.6.3](https://github.com/dhythm/release-please-example/compare/v2.6.3-beta1...v2.6.3) (2023-09-17)
+
+
+### Bug Fixes
+
+* add images and update README.md ([#47](https://github.com/dhythm/release-please-example/issues/47)) ([cf8f5b5](https://github.com/dhythm/release-please-example/commit/cf8f5b5e28ca9fc50162f0ad33ce7d0964866d35))
+* remove release-as to finish pre-release ([#45](https://github.com/dhythm/release-please-example/issues/45)) ([c898df5](https://github.com/dhythm/release-please-example/commit/c898df5066420ef6b17e78cb06105e704bb619ce))
+
 ## [2.6.3-beta1](https://github.com/dhythm/release-please-example/compare/v2.6.2...v2.6.3-beta1) (2023-09-17)
 
 

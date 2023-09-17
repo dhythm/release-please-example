@@ -1,6 +1,6 @@
 {
   "name": "release-please-example",
-  "version": "2.6.3-beta1",
+  "version": "2.6.3",
   "description": "",
   "main": "index.js",
   "scripts": {
