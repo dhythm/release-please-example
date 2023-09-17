@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.6.0](https://github.com/dhythm/release-please-example/compare/v2.5.0...v2.6.0) (2023-09-17)
+
+
+### Features
+
+* create .github/release-please.yml ([#34](https://github.com/dhythm/release-please-example/issues/34)) ([99d4061](https://github.com/dhythm/release-please-example/commit/99d40619c52eeeb71e13adde23cae6367f34125b))
+* set bump-minor-pre-major, bump-patch-for-minor-pre-major true ([#36](https://github.com/dhythm/release-please-example/issues/36)) ([503eb4b](https://github.com/dhythm/release-please-example/commit/503eb4b4c0285d01f1e138fcd6552b35a8c43ae1))
+
 ## [2.5.0](https://github.com/dhythm/release-please-example/compare/v2.3.0...v2.5.0) (2023-09-03)
 
 
