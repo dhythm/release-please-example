@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.6.1](https://github.com/dhythm/release-please-example/compare/v2.6.0...v2.6.1) (2023-09-17)
+
+
+### Bug Fixes
+
+* add config and manifest, and move config from github action yaml to config ([#37](https://github.com/dhythm/release-please-example/issues/37)) ([5864e48](https://github.com/dhythm/release-please-example/commit/5864e48aced7deea453f75d9d4642fbdd81926cf))
+* update .release-please-manifest.json ([#39](https://github.com/dhythm/release-please-example/issues/39)) ([cfe3e81](https://github.com/dhythm/release-please-example/commit/cfe3e8197dd6966a677fef05dfe8ed2afdd4eac3))
+
 ## [2.6.0](https://github.com/dhythm/release-please-example/compare/v2.5.0...v2.6.0) (2023-09-17)
 
 
