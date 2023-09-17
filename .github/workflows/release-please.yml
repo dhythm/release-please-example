@@ -18,5 +18,7 @@ jobs:
       - uses: google-github-actions/release-please-action@v3
         with:
           release-type: node
-          prerelease: true
           package-name: release-please-action
+          prerelease: true
+          bump-minor-pre-major: true
+          bump-patch-for-minor-pre-major: true
