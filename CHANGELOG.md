@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.6.3-beta1](https://github.com/dhythm/release-please-example/compare/v2.6.2...v2.6.3-beta1) (2023-09-17)
+
+
+### Features
+
+* pre-release 2.6.3-beta1 by manual ([#43](https://github.com/dhythm/release-please-example/issues/43)) ([b02ddf4](https://github.com/dhythm/release-please-example/commit/b02ddf41092dac1d26ece722d9fb57bff4b59152))
+
 ## [2.6.2](https://github.com/dhythm/release-please-example/compare/v2.6.1...v2.6.2) (2023-09-17)
 
 
