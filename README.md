@@ -60,7 +60,16 @@ Another option is to update GitHub Actions config with `release-as: x.x.x`. See 
 
 #### Pre-release feature
 
-TBC
+Set `prelease` as `true`. (Not sure about `bump-minor-pre-major` and `bump-patch-for-minor-pre-major` affect.)
+Then, `pre-release` could be created by using `release-as`. (See: #44)
+
+![image](./assets/img/Screenshot_2023-09-17_at_21.03.57.png)
+
+However, the version is changed incorrectly after `pre-release`. (See: #46)
+
+![image](./assets/img/Screenshot_2023-09-17_at_21.04.39.png)
+
+Thus, prerelease can be archieved by `release-as` but need to handle by manual.
 
 #### Create tag not only main branch
 

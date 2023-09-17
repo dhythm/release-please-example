@@ -22,3 +22,4 @@ jobs:
           bump-minor-pre-major: true
           bump-patch-for-minor-pre-major: true
           prerelease: true
+          release-as: 2.6.3
