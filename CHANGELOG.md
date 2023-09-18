@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.7.0](https://github.com/dhythm/release-please-example/compare/v2.7.0-1...v2.7.0) (2023-09-18)
+
+
+### Features
+
+* release-as 2.7.0 ([#51](https://github.com/dhythm/release-please-example/issues/51)) ([bbf6dc3](https://github.com/dhythm/release-please-example/commit/bbf6dc37027935df42927e36c04206ae4b907490))
+
 ## [2.7.0-1](https://github.com/dhythm/release-please-example/compare/v2.6.3...v2.7.0-1) (2023-09-18)
 
 
