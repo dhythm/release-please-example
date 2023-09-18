@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.8.0](https://github.com/dhythm/release-please-example/compare/v2.7.0...v2.8.0) (2023-09-18)
+
+
+### Features
+
+* rename yaml and delete release-as clause ([#54](https://github.com/dhythm/release-please-example/issues/54)) ([5f41293](https://github.com/dhythm/release-please-example/commit/5f4129396be8b709427ea9d256363ebcfdf3875a))
+
 ## [2.7.0](https://github.com/dhythm/release-please-example/compare/v2.7.0-1...v2.7.0) (2023-09-18)
 
 
