@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.8.2](https://github.com/dhythm/release-please-example/compare/v2.8.1...v2.8.2) (2023-09-18)
+
+
+### Bug Fixes
+
+* update description ([#69](https://github.com/dhythm/release-please-example/issues/69)) ([7a03153](https://github.com/dhythm/release-please-example/commit/7a03153345aac1d79c3feb52710c1b4879a45df0))
+
 ## [2.8.1](https://github.com/dhythm/release-please-example/compare/v2.8.0...v2.8.1) (2023-09-18)
 
 
