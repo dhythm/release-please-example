@@ -70,6 +70,11 @@ However, the version is changed incorrectly after `pre-release`. (See: #46)
 ![image](./assets/img/Screenshot_2023-09-17_at_21.04.39.png)
 
 Thus, prerelease can be archieved by `release-as` but need to handle by manual.
+Also, `release-please` allows non-semver release as a pre-release by using `release-as`.
+
+![image](./assets/img/Screenshot_2023-09-18_at_9.46.35.png)
+
+![image](./assets/img/Screenshot_2023-09-18_at_9.47.34.png)
 
 #### Create tag not only main branch
 
