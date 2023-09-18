@@ -78,7 +78,9 @@ Also, `release-please` allows non-semver release as a pre-release by using `rele
 
 #### Create tag not only main branch
 
-TBC
+![image](./assets/img/Screenshot_2023-09-18_at_12.47.10.png)
+
+![image](./assets/img/Screenshot_2023-09-18_at_12.52.04.png)
 
 ## Reference
 
