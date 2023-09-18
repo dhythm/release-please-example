@@ -2,11 +2,6 @@ on:
   push:
     branches:
       - 2.7.x
-
-permissions:
-  contents: write
-  pull-requests: write
-
 name: release-please
 
 jobs:
