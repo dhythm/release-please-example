@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.8.0-1](https://github.com/dhythm/release-please-example/compare/v2.7.0-1...v2.8.0-1) (2023-09-18)
+
+
+### Features
+
+* create 2.7.x branch ([729d216](https://github.com/dhythm/release-please-example/commit/729d2163592df04efc974e604d921cdc56799879))
+* release-as 2.7.0 ([#51](https://github.com/dhythm/release-please-example/issues/51)) ([bbf6dc3](https://github.com/dhythm/release-please-example/commit/bbf6dc37027935df42927e36c04206ae4b907490))
+
 ## [2.7.0-1](https://github.com/dhythm/release-please-example/compare/v2.6.3...v2.7.0-1) (2023-09-18)
 
 
