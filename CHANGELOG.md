@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.7.0-1](https://github.com/dhythm/release-please-example/compare/v2.6.3...v2.7.0-1) (2023-09-18)
+
+
+### Features
+
+* set non-semver tag ([#49](https://github.com/dhythm/release-please-example/issues/49)) ([abb69b8](https://github.com/dhythm/release-please-example/commit/abb69b8fbf802b26d66084fdcbac4dd8bc3494b9))
+
 ## [2.6.3](https://github.com/dhythm/release-please-example/compare/v2.6.3-beta1...v2.6.3) (2023-09-17)
 
 
