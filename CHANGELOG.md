@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.9.0](https://github.com/dhythm/release-please-example/compare/v2.8.0...v2.9.0) (2023-09-18)
+
+
+### Features
+
+* add relase-2.8.x.yml ([dc9de40](https://github.com/dhythm/release-please-example/commit/dc9de405c0e90b1d7c6af5fe8008005d92150cd5))
+
 ## [2.8.0](https://github.com/dhythm/release-please-example/compare/v2.7.0...v2.8.0) (2023-09-18)
 
 
