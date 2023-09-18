@@ -2,5 +2,5 @@
   "bump-minor-pre-major": true,
   "bump-patch-for-minor-pre-major": true,
   "prerelease": true,
-  ".": "2.8.0"
+  ".": "2.9.0"
 }
